@@ -19,5 +19,5 @@ function solution(str){
     //}  <- for문 중괄호 실수함 ;;;;
     
 }
-let str="OXOOOXXXOXOOXOOOOOXO";
+let str="OOOOOXXXOXOOXOOOOOOO";
 console.log(solution(str)); // 27 나와야함
